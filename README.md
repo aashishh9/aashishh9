@@ -1,6 +1,5 @@
 #
 <p align="center">
-    <img src="https://media.giphy.com/media/JIXsx8j8ZTN9S/giphy.gif" alt="Typing Animation" width="800">
-    <br>
-    Hola Amigo!
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&width=1200&lines=Hola+Amigo" alt="Typing SVG">
 </p>
+
