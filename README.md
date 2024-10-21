@@ -6,4 +6,4 @@
   JavaScript | TypeScript | React | Angular | Node.js | Spring Boot |
 
  ###  Currently learning  :
- Rust
+   Rust
