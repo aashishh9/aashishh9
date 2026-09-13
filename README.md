@@ -1,1 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Pacifico&weight=450&size=30&duration=3000&color=CAE9F7&background=CA35FF00&center=true&vCenter=true&width=435&lines=Hey+There.)](https://git.io/typing-svg)
+```markdown
+<h1 align="center">Hey, I'm Ashish 👋</h1>
+
+<p align="center">
+  Full-Stack Developer · Data · AI
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashish-pawar-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:ashishpawar.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+</p>
+```
